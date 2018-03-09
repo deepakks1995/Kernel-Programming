@@ -1,0 +1,1 @@
+cmd_/home/carlos/Kernel/ebbcharmutex.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/carlos/Kernel/ebbcharmutex.ko /home/carlos/Kernel/ebbcharmutex.o /home/carlos/Kernel/ebbcharmutex.mod.o ;  true
